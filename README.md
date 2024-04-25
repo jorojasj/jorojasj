@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola, mi nombre es José Rojas 👋
+
+![https://github.com/jorojasj](https://acortar.link/1GGziz)
+
+Soy estudiante de Ing. en Informática en Duoc UC
+
+## Tecnologías:
+[![Html](https://acortar.link/LLxbar)]()
+[![Css](https://acortar.link/I207rf)]()
+[![Boostrap](https://acortar.link/avkhQG)]()
+<br>
+[![JavaScript](https://acortar.link/6gm7tc)]()
+[![Tailwind Css](https://acortar.link/5TiCtj)]()
+
+## Contacto
+[![Email](https://acortar.link/Il7quR)](mailto:jo.rojasjs@gmail.com)
 
 
-**jorojasj/jorojasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
   
