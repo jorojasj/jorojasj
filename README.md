@@ -1,7 +1,5 @@
 ### Hola, mi nombre es José Rojas 👋
 
-![https://github.com/jorojasj](https://acortar.link/1GGziz)
-
 Soy estudiante de Ing. en Informática en Duoc UC
 
 ## Tecnologías:
@@ -11,6 +9,8 @@ Soy estudiante de Ing. en Informática en Duoc UC
 <br>
 [![JavaScript](https://acortar.link/6gm7tc)]()
 [![Tailwind Css](https://acortar.link/5TiCtj)]()
+<br>
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)]()
 
 ## Contacto
 [![Email](https://acortar.link/Il7quR)](mailto:jo.rojasjs@gmail.com)
